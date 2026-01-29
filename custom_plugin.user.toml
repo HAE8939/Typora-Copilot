@@ -1,0 +1,29 @@
+[typoraCopilot]
+name = "AI 助手"
+enable = true
+hide = false
+order = 1
+hotkey = "ctrl+alt+i"
+active_index = 0
+
+[[typoraCopilot.profiles]]
+name = "🚀 GLM-4 Flash (免费)"
+model = "glm-4-flash"
+apiUrl = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
+apiKey = "xxxxxxxxxxxxxxxxxxx"
+max_context = 8000
+
+[[typoraCopilot.profiles]]
+name = "🧠 glm-4.7 (旗舰)"
+model = "glm-4.7"
+apiUrl = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
+apiKey = "xxxxxxxxxxxxxxxxxxx"
+max_context = 10000
+
+[[typoraCopilot.profiles]]
+name = "🐳 DeepSeek V3"
+model = "deepseek-chat"
+apiUrl = "https://api.deepseek.com/chat/completions"
+apiKey = "xxxxxxxxxxxxxxxxxxx"
+max_context = 4000
+
