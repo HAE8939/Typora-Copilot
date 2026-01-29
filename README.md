@@ -5,8 +5,7 @@
 基于 [typora_plugin](https://github.com/obgnail/typora_plugin) 框架开发的 Typora AI 助手插件。
 支持 **多模型切换**（如智谱 GLM-4.7、DeepSeek、Kimi 等），集成了流式对话、上下文感知、一键插入文档等功能，是 Typora 写作的得力助手。
 
-![Plugin Preview](./preview.png)
-*(建议在此处上传一张运行时的截图)*
+[截图.png](https://github.com/HAE8939/Typora-Copilot/blob/8fdcfa0ebc574d2c8cc4d13d9d54be3a04ccb8cb/%E6%88%AA%E5%9B%BE.png)
 
 ## ✨ 核心特性
 
@@ -133,5 +132,6 @@ A: 在Typora界面，按`shift+F12`，调出开发者工具，根据日志来解
 
 
 ## 📝 License
+
 
 MIT License
